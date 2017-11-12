@@ -1,0 +1,2 @@
+This File Is For Testing RESM Command , Just Send RESM Command From Client : RESM hello.txt After PASV command
+And The Incomplete hello.txt There(Client Side) Will Receive The Part Not Retreived From hello.txt(Server Side)
