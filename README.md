@@ -1,5 +1,7 @@
 # ftp-protocol
 
+Implementation of FTP Protocol according to RFC 959 Using Sockets in C Language
+
 TCP Server and Client 
 
 Server Side :
